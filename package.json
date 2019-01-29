@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.2",
-    "@semantic-release/git": "^7.0.7",
+    "@semantic-release/git": "^7.0.8",
     "@vue/test-utils": "^1.0.0-beta.28",
     "babel-jest": "^23.6.0",
     "bili": "^2.2.6",
@@ -62,7 +62,7 @@
     "prettier": "^1.10.2",
     "rollup-plugin-vue": "^3.0.0",
     "sass-loader": "^7.1.0",
-    "semantic-release": "^15.13.2",
+    "semantic-release": "^15.13.3",
     "vue": "^2.5.13",
     "vue-jest": "^3.0.2",
     "vue-template-compiler": "^2.5.13",
